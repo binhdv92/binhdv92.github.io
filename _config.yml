@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Van Binh Duong's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Van Binh Duong"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://binhdv92.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "binhdv92/binhdv92.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,18 +23,18 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Van Binh Duong"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Van Binh Duong is a enthusiatic Data Scientist with a strong background in electronics and software engineering, specializing in real-time data systems, KPI analytics, and industrial process optimization"
+  location         : "Perrysburg, OH, USA"
+  employer         : "First Solar Inc."
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "binhdv92@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=--XSGWAAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
